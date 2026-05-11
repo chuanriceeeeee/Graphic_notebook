@@ -1,0 +1,10 @@
+- float
+  - float2 float3 float4
+  >similar to vec
+- int
+  - 32-bit signed int
+- uint
+  - 32-bit unsigned int
+- sampler2D
+  - TGAImage
+- 

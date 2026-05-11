@@ -1,0 +1,6 @@
+- length()
+- normalize()
+- dot()
+- cross()
+- mul(a,b)
+  - a\b float ot matrix
