@@ -1,0 +1,33 @@
+- 1 单键
+    - Q：扒手拖动（Scene）
+    - W：移动（GameObject）
+    - E：旋转
+    - R：三维缩放（GameObject 不会变形）
+    - T：单维缩放（GameObject 会变形）
+    - Y：平移、旋转、缩放
+    - F：将选中的对象放在屏幕中心（双击 GameObject 同效果）
+    - Z：游戏对象以本地坐标系中心 / 世界坐标系中心作为变换的坐标系中心
+    - X：游戏对象以本地坐标系 / 世界坐标系作为变换的坐标系
+    - V：顶点吸附，用于平移对齐
+滑轮：放大 / 缩小 Scene / Game 窗口
+- 2 Hierarchy窗口
+    - Ctrl + D：复制并粘贴当前选中的对象
+    - Ctrl + →：展开选中对象的层级结构
+    - Ctrl + ←：收缩选中对象的层级结构
+- 3 切换窗口
+    - Ctrl + 1：切换到 Scene 窗口
+    - Ctrl + 2：切换到 Game 窗口
+    - Ctrl + 3：切换到 Inspector 窗口
+    - Ctrl + 4： 切换到 Hierarchy 窗口
+    - Ctrl + 5：切换到 Assets 窗口
+    - Ctrl + 6：切换到 Animation 窗口
+- 4 Scene 相关
+    - Alt + 鼠标左键拖拽：旋转 Scene（以中心 GameObject 为旋转中心）
+    - 鼠标右键拖拽：旋转 Scene（以观察点为旋转中心）
+    - Ctrl + Shift + F：将相机移到观察点
+- 5 Game 相关
+    - Shift + 空格：全屏 / 恢复 Game 窗口
+    - Ctrl + P：播放
+    - Ctrl + Shift + P：暂停
+- 6 Build 相关
+    - Ctrl + Shift + B：选择构建场景的发布平台
