@@ -1,0 +1,17 @@
+- window
+    - package manager 
+    - packages:Unity Registry
+    - Universal RP
+      - download
+- create a folder(URP)
+  - create 
+  - URP assets（Universal）
+  - 
+- edit
+  - project settings
+  - graphic
+  - choose URP assets
+- edit
+  - quality
+  - choose URP assets
+> "quality" is over "graphic" setting

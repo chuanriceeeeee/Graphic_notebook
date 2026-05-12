@@ -7,4 +7,5 @@
   - 32-bit unsigned int
 - sampler2D
   - TGAImage
-- 
+- half
+  - 
